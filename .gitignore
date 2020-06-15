@@ -7,3 +7,4 @@ model_train/detect_params
 model_train/recognize_model
 model_train/recognize_params
 *.zip
+model_train/.DS_Store
